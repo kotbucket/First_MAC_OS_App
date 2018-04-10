@@ -7,7 +7,7 @@
 //
 
 import Cocoa
-let g = ""
+let g = " "
 @NSApplicationMain
 class AppDelegate: NSObject, NSApplicationDelegate {
 
